@@ -89,6 +89,7 @@ const getFile = (e) => {
   
   return (
     <div className="App">
+      <h1>Mytidbit browser storage</h1>
       <form onSubmit={getPostInfo}>
         <div className="control">
           <label>Title</label>
