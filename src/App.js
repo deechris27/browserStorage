@@ -98,7 +98,7 @@ const getFile = (e) => {
           <label>Content</label>
           <textarea name="content" onChange={handleSetContent} />
         </div>
-        <div className="control" style={{position:'relative', left:'40%', marginTop:'10px'}}>
+        <div className="control" style={{position:'relative', left:'43%', marginTop:'10px'}}>
           <label htmlFor="cover" className="cover">Choose a file</label>
           <input type="file" id="cover" name="file" onChange={e => getFile(e.target.files)} />
         </div>
