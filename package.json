@@ -22,7 +22,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://deechris27.github.io/browserStorage/",
+  "homepage": "https://deechris27.github.io/browserdb/",
   "browserslist": {
     "production": [
       ">0.2%",
